@@ -92,9 +92,6 @@ body {
   border-width: 0 150px 100px 150px;
   border-color: transparent transparent #C9D0D2 transparent;
 }
-.envelope {
-  position: relative;
-}
 .heart {
   position: absolute;
   top: 50%;
@@ -171,7 +168,7 @@ body {
 }
 body {
   margin: 0;
-  background-image: url('mi\ corazon.jpeg'); /* Reemplaza con el nombre de tu imagen */
+  background-image: url('mi\ corazon.jpeg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
